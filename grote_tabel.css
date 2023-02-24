@@ -1,0 +1,50 @@
+.horizontalblacklineverticalgreendots {
+    border-width: 1px 5px;
+    border-color: black green;
+    border-style: solid dotted;
+}
+
+.horizontalreddotsborder {
+    border: 10px red;
+    border-style: dotted none;
+}
+
+#mango {
+    text-align: left;
+}
+
+.numbers td{
+    padding: 30px 10px;
+    font-size: 100px;
+    text-align: center;
+}
+
+#one {
+    font-size: medium;
+    border: 1px solid black;
+}
+
+#two {
+    border: 3px solid fuchsia;
+    border-radius: 30% 10%;
+}
+
+#three {
+    background-color: black;
+    color:white;
+}
+
+.cities td {
+    padding: 20px 10px;
+    text-align: center;
+}
+
+#amsterdam {
+    border-width: 5px 1px;
+    border-color: darkviolet black;
+    border-style: dashed solid;
+}
+
+#groningen {
+    border: 10px red dotted;
+}
